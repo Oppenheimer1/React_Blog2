@@ -1,7 +1,6 @@
 #1 – Morpheous API
 ######Following the integration steps here: https://github.com/vesparny/morpheus.
 ######After reviewing the code and learning the format I created one blog post with headline/body copy and an image.
-######After downloading the attached Google Drive file follow the steps below.
 ######Run from the command line:
 ######1. cd lars_morpheus  (change to the directory where you have downloaded and saved the file)
 ######2. git init
